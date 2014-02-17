@@ -1,0 +1,41 @@
+{
+  "name": "broccoli-htmlmin",
+  "version": "0.0.0",
+  "description": "Minify HTML",
+  "license": "MIT",
+  "repository": "sindresorhus/broccoli-htmlmin",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "broccoli build temp && mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "broccoli-plugin",
+    "minimize",
+    "html",
+    "markup",
+    "min",
+    "minify",
+    "optimize",
+    "compress"
+  ],
+  "dependencies": {
+    "broccoli-filter": "0.0.1",
+    "rsvp": "~3.0.4",
+    "minimize": "~0.6.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "broccoli": "~0.1.1",
+    "rimraf": "~2.2.6"
+  }
+}
