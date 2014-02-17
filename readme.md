@@ -26,7 +26,7 @@ tree = htmlmin(tree, options);
 
 #### options
 
-[Options](https://github.com/sindresorhus/grunt-svgmin#available-optionsplugins) are passed to htmlmin.
+See the Minimize [options](https://github.com/Moveo/minimize#options).
 
 
 ## License
