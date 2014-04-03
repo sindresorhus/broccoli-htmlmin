@@ -1,4 +1,4 @@
-# [broccoli](https://github.com/joliss/broccoli)-htmlmin [![Build Status](https://travis-ci.org/sindresorhus/broccoli-htmlmin.png?branch=master)](https://travis-ci.org/sindresorhus/broccoli-htmlmin)
+# [broccoli](https://github.com/joliss/broccoli)-htmlmin [![Build Status](https://travis-ci.org/sindresorhus/broccoli-htmlmin.svg?branch=master)](https://travis-ci.org/sindresorhus/broccoli-htmlmin)
 
 > Minify HTML using [Minimize](https://github.com/Moveo/minimize)
 
@@ -7,12 +7,12 @@
 
 ## Install
 
-```
-npm install --save broccoli-htmlmin
+```bash
+$ npm install --save broccoli-htmlmin
 ```
 
 
-## Example
+## Usage
 
 ```js
 var htmlmin = require('broccoli-htmlmin');
@@ -31,4 +31,4 @@ See the Minimize [options](https://github.com/Moveo/minimize#options).
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+[MIT](http://opensource.org/licenses/MIT) © [Sindre Sorhus](http://sindresorhus.com)
