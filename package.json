@@ -29,13 +29,13 @@
     "compress"
   ],
   "dependencies": {
-    "broccoli-filter": "0.0.1",
-    "rsvp": "~3.0.4",
-    "minimize": "~0.6.0"
+    "broccoli-filter": "^0.1.6",
+    "minimize": "^0.7.4",
+    "rsvp": "^3.0.4"
   },
   "devDependencies": {
+    "broccoli": "^0.7.2",
     "mocha": "*",
-    "broccoli": "~0.1.1",
-    "rimraf": "~2.2.6"
+    "rimraf": "^2.2.6"
   }
 }
