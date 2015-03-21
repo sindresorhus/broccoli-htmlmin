@@ -7,8 +7,8 @@
 
 ## Install
 
-```sh
-$ npm install --save broccoli-htmlmin
+```
+$ npm install --save-dev broccoli-htmlmin
 ```
 
 
@@ -22,7 +22,7 @@ tree = htmlmin(tree, options);
 
 ## API
 
-### htmlmin(tree, options)
+### htmlmin(tree, [options])
 
 #### options
 
