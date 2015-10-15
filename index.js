@@ -8,6 +8,8 @@ function HtmlminFilter(inputTree, options) {
 		return new HtmlminFilter(inputTree, options);
 	}
 
+	Filter.call(this, inputTree);
+
 	this.inputTree = inputTree;
 	this.minimize = new Minimize(options);
 }
