@@ -1,4 +1,4 @@
-# [broccoli](https://github.com/joliss/broccoli)-htmlmin [![Build Status](https://travis-ci.org/sindresorhus/broccoli-htmlmin.svg?branch=master)](https://travis-ci.org/sindresorhus/broccoli-htmlmin)
+# [broccoli](https://github.com/joliss/broccoli)-htmlmin
 
 > Minify HTML using [Minimize](https://github.com/Moveo/minimize)
 
